@@ -1,1 +1,1 @@
-alert('eu não aguento mais');
+alert('eu não aguento mais nada');
