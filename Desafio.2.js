@@ -1,1 +1,1 @@
-alert('eu não aguento mais nada caralho filho da puta');
+alert('eu não aguento mais nada caralho poha');
